@@ -245,10 +245,6 @@ Head-Pose-Deep-Learning/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## References
 
 1. **HopeNet Paper**: "Fine-Grained Head Pose Estimation Without Keypoints" by Ruiz et al. (2018).
